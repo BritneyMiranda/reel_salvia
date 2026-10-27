@@ -1,0 +1,9 @@
+.venv/
+.venv-llm/
+fuentes/
+mi_voz.*
+*.m4a
+*.opus
+__pycache__/
+salidas/*.wav
+salidas/imagen3.png
